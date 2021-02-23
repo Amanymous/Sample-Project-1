@@ -1,4 +1,4 @@
-redux completed and remaining part ant design ,testing,deployment
+redux completed,deployment, ant design and remaining part ,testing
 
 # Getting Started with Create React App
 
